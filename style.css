@@ -12,6 +12,10 @@ body {
     box-sizing: border-box;
 }
 
+.lazy {
+    display: block;
+}
+
 
 
 .box {
